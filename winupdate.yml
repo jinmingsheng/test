@@ -9,4 +9,3 @@
         - UpdateRollups
         - Updates
       reboot: yes
-      reboot_timeout
