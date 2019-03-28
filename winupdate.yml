@@ -7,13 +7,5 @@
         - SecurityUpdates
         - CriticalUpdates
         - UpdateRollups
-        - Application
-        - Connectors
-        - DefinitionUpdates
-        - DevelopKits
-        - FeaturePacks
-        - Guidance
-        - ServicePacks
-        - Tools
         - Updates
       rebot: yes
